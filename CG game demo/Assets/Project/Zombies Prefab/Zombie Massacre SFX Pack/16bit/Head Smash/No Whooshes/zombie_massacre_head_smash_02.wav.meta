@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 493cec6d161d6994d8bb05a79ba7affb
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 345894
+  packageName: Zombie Massacre Sound Effects Starter Pack
+  packageVersion: 1.0
+  assetPath: Assets/TerrorByte Games/Zombie Massacre SFX Pack/16bit/Head Smash/No
+    Whooshes/zombie_massacre_head_smash_02.wav
+  uploadId: 822232
